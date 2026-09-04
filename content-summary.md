@@ -1,18 +1,19 @@
 ---
 layout: default
-title: Measuring the California Coast
+title: California as an Island 
 nav_order: 1
-last_modified_date: 2026-09-01
+last_modified_date: 2026-09-04
 ---
 
 
 
-# Measuring the California Coast
+# California as an Island in maps
 
 ---
 
 ## Content Summary
 
-In 1807, President Thomas Jefferson created the Survey of the Coast, an agency dedicated to mapping coastlines at high levels of precision with the primary goal of making coastal waters safe for trade. Maps created near the end of the 18th century accurately described the contours of the Atlantic and Pacific coasts but many were not precise enough to guide sailors around hazards like rocks, sandbars, and shoals. Compounding this problem, in the West, there were no lighthouses to aid navigators sailing in particularly treacherous waters and foggy conditions. Construction and maintenance of lighthouses had come under the purview of the Treasury Department with the formation of the federal government in 1776 and were generally neglected until the mid-1800’s. The first west coast lighthouse was constructed in San Francisco Bay on Alcatraz Island in 1854 to mitigate against maritime accidents in the bustling gold-rush era harbor. 
+The David Rumsey Map Center has an extensive collection of maps that depict California as an island, instead of part of continental North America. Approximately 700 of these maps are available in the Glen McLaughlin collection, which can be seen in the digital exhibition [California as an Island in Maps](https://exhibits.stanford.edu/california-as-an-island), or the library’s catalog [SearchWorks](https://searchworks.stanford.edu/view/zb871zd0767).
 
-The Survey of the Coast was tasked with both creating navigational charts and identifying locations for the placement of lighthouses. The development of suitable maps required innumerable skilled person-hours and use of bulky and often delicate precision instruments in inhospitable, even hazardous conditions. This collection combines instruments with cartographic examples to illustrate the challenges overcome by early surveyors of the California coast and to demystify the technical process of making these significant and beautiful maps.  
+California depicted as an island on maps might be one of the most prolific and persistent mistakes in the history of map making. Where did this misconception come from, why did it persist for so long, and how was it finally rectified? The answers involve a popular contemporary novel about a mythical island, a Spanish friar with a political agenda, copycat cartographers dealing with little-known corners of the world, and even pirates.
+
