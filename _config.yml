@@ -1,15 +1,17 @@
 title: California as an Island
 description: Curriculum material for teaching the history of depiction of California as an island on maps. 
-theme: just-the-docs
 
 url: https://davidrumseymapcenter.github.io/ 
 baseurl: "/ca-as-an-island"
+
+remote_theme: just-the-docs/just-the-docs
 
 aux_links: # remove if you don't want this link to appear on your pages
   Home: https://davidrumseymapcenter.github.io/ca-as-an-island
 
 plugins:
   - jekyll-default-layout
+  - jekyll-remote-theme
   
 # Enable or disable heading anchors
 heading_anchors: true
