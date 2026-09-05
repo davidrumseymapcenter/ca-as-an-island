@@ -6,7 +6,7 @@ last_modified_date: 2026-06-25
 nav_order: 3
 ---
 
-# Explorers and Pirates Spread the Myth
+# A Priest and Pirates Spread the Myth
 ---
 
 ## 1602 Viscaíno Expedition as a Pivot Point
