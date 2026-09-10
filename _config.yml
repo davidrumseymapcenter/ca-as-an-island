@@ -13,7 +13,7 @@ plugins:
   - jekyll-default-layout
   - jekyll-remote-theme
 
-favicon_ico: "images/favicon.ico"
+favicon_ico: "images/favicon.png"
   
 # Enable or disable heading anchors
 heading_anchors: true
