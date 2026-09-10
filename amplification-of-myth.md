@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Amplification of the Myth 
+title: Amplification of the myth 
 parent: California as an Island
 last_modified_date: 2026-09-09
 nav_order: 4
 ---
 
-# Amplification of the Myth 
+# Amplification of the myth 
 {: .no_toc }
 
 1. TOC
