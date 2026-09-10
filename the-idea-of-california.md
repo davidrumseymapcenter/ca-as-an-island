@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Origin of the idea of California
+title: The idea of California
 parent: California as an Island
 last_modified_date: 2026-09-04
 nav_order: 1
 ---
 
-# Origin of the idea of California 
+# The idea of California 
 
 ---
 
