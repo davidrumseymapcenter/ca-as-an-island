@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About this Guide 
-last_modified_date: 2026-09-04
+last_modified_date: 2026-09-10
 ---
 
 # About this Instructor's Guide
@@ -16,7 +16,7 @@ The narrative is divided into sections, presented chronologically. Within each t
 
 Primary sources like maps can be interpreted in many ways, and there’s rarely one “right answer” explaining what makes something historically significant. Instructors and students are encouraged to look closely, make observations, build hypotheses, and form research questions about the things they notice. Compare and contrast the ways coastlines and other details are represented on these maps, and how cartographic elements real and imagined are copied by mapmakers over time.    
 
-A printable version of this guide can be downloaded [here](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:4ae39751-87a0-4c47-b241-e091e4e56455)). 
+A printable version of this guide can be downloaded [here]. 
 
 {: .note-title }
 >Related Curriculum Sets
