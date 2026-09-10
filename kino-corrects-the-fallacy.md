@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Kino Corrects the Fallacy
+title: Kino corrects the fallacy
 parent: California as an Island
 last_modified_date: 2026-09-09
 nav_order: 5
 ---
 
-# Kino Corrects the Fallacy
+# Kino corrects the fallacy
 
 ---
 
