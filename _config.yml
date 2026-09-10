@@ -12,8 +12,6 @@ aux_links: # remove if you don't want this link to appear on your pages
 plugins:
   - jekyll-default-layout
   - jekyll-remote-theme
-
-favicon_ico: "favicon.png"
   
 # Enable or disable heading anchors
 heading_anchors: true
