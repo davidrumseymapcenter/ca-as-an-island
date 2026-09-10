@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Explorers, Pirates, and a Priest
+title: Explorer, Pirate, Priest
 parent: California as an Island
 last_modified_date: 2026-06-25
 nav_order: 3
 ---
 
-# Explorers, Pirates, and a Priest help spread the myth
+# Explorer, Pirate, & Priest help spread the myth
 ---
 
 ## 1602 Viscaíno expedition as a pivot point
